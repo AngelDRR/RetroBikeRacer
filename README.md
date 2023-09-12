@@ -11,6 +11,8 @@ The following changes have been implemented in this version compared to the orig
 
 -The game has been modified to work as a game against the clock where the player has to complete the track before the time runs out. For this a starting time of 60 seconds has been set and CheckPoints have been added which add an extra 30 seconds to the counter each time the player passes one.
 
--GameOver has been added which will end the game every time the time runs out or the player passes the finish line.
+-GameOver has been added which will end the game every time the time runs out or the player passes the finish line, each option with a different Game Over message.
+
+-Trubo and brake buttons, allowing the player to brake and use a small turbo that will increase the top speed of the bike.
 
 -The style of the game has been modified to resemble a Super Hang-On style motorbike game.
