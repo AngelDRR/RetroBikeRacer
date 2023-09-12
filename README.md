@@ -5,7 +5,7 @@ This project is based on the project developed by @Javidx9 in ​​his video "C
 
 The following changes have been implemented in this version compared to the original:
 
--The project has been developed using the olcPixelGameEngine developed by Javidx9 instead of the ConsoleGameEngine also developed by Javidx9 used in the original project.
+-The project has been developed using the olcPixelGameEngine developed by Javidx9 (https://github.com/OneLoneCoder/olcPixelGameEngine) instead of the ConsoleGameEngine also developed by Javidx9 used in the original project.
 
 -Implemented a track generator that will generate a pseudo-random track of the given length
 
